@@ -6,6 +6,13 @@ _Especialista em **Angular** na empresa [Izii](https://www.linkedin.com/company/
 
 Desenvolvedor de sistemas desde 2016, apaixonado por JavaScript, Padrões de Projeto e Código Limpo. ❤
 
+## 💼 Sobre mim:
+
+- 🔭 Estou atualmente trabalhando como desenvolvedor front-end.
+- 🌱 Estou estudando .Net Core, NodeJS, RxJS e ajudando a comunidade de tecnologia através do [medium](https://medium.com/@jose.rubens.veiga).
+- 📫 Como me encontrar: jose.rubens.veiga@gmail.com
+- 😄 Pronomes: Ele / Dele
+
 ## 🛠 Tecnologias
 
 <div style="display: inline_block"><br>
@@ -17,14 +24,7 @@ Desenvolvedor de sistemas desde 2016, apaixonado por JavaScript, Padrões de Pro
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-## Sobre mim:
-
-- 🔭 Estou atualmente trabalhando como desenvolvedor front-end.
-- 🌱 Estou estudando .Net Core, NodeJS, RxJS e ajudando a comunidade de tecnologia através do [medium](https://medium.com/@jose.rubens.veiga).
-- 📫 Como me encontrar: jose.rubens.veiga@gmail.com
-- 😄 Pronomes: Ele / Dele
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserubensveiga&layout=compact&langs_count=7&theme=dracula"/>
+## 🗺 Onde me encontrar
 
 <div> 
   <a href="https://www.youtube.com/channel/UCvxDSL3DQx2CD4dMzwj9aNw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
