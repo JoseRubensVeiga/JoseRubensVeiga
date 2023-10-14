@@ -1,6 +1,6 @@
 # Olá, eu sou o José 💻
 
-_Especialista em **Angular** na empresa [Izii](https://www.linkedin.com/company/izii/mycompany/)._
+_Especialista em **Angular**._
 
 <img  align="right" src="./assets/css.gif"/>
 
